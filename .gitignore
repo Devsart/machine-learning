@@ -1,0 +1,9 @@
+*.pdf
+week-2/ex1/computeCostMulti.m
+week-2/ex1/submit.m
+week-2/ex1/token.mat
+week-2/ex1/featureNormalize.m
+week-2/ex1/gradientDescentMulti.m
+week-2/ex1/normalEqn.m
+week-2/ex1/ex1_multi.m
+week-2/ex1/lib/
